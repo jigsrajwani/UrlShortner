@@ -1,1 +1,3 @@
-I created this url shortner using FastAPI.
+# URL SHORTNER
+
+I created this project using FastAPI.
